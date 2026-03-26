@@ -1,4 +1,8 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+
+<- 1:10
+> mean(x)
+
+y <- rnorm(10)
+summary(y) 
+
+
